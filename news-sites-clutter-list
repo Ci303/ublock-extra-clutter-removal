@@ -1,0 +1,26 @@
+! 2023-10-21 https://www.theguardian.com
+! empty adspace
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(1)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(2)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(3)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(6)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(8)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(9)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(12)
+
+! hide sections
+www.theguardian.com###sport
+www.theguardian.com###newsletters
+
+! small ads / self promotion
+www.theguardian.com##.dcr-1u8qly9.dumathoin
+www.theguardian.com##.dcr-1bbj54w > .dcr-1u8qly9
+www.theguardian.com##.dcr-ray2a1 > .dcr-1u8qly9
+www.theguardian.com##.dcr-1wfyb2l > .dcr-1u8qly9
+www.theguardian.com##.dcr-z9fkix > .dcr-1u8qly9
+
+! bottom bar
+www.theguardian.com##body > .dcr-yvt6mp
+
+! 2023-10-21 https://www.thetimes.co.uk
+www.thetimes.co.uk##.GlobalFooter
