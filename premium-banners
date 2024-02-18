@@ -19,45 +19,18 @@ www.cogipas.com##.tve_lb_open.tve_lb_anim_instant.tve_p_lb_background
 
 ! 2023-10-05 https://www.google.co.uk
 www.google.co.uk##.cu-container.c3mZkd
+www.google.co.uk##.appbar
 
 ! 2023-10-20 https://www.amazon.co.uk
+www.amazon.co.uk##.pd_rd_r-b042bef6-2c47-4873-8d11-9ec99e1d1244.pd_rd_w-xmxwc.pd_rd_wg-0MkAV.celwidget.desktop-gateway-atf_9364ba82-258d-4a35-99b0-2194cdb2e788.csm-placement-id-11721da9-2ff6-4db1-852b-ff2b86f93408.gw-col
 www.amazon.co.uk##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
 www.amazon.co.uk##.nav-sprite-v1.navLeftFooter
-
-! 2023-10-21 https://www.theguardian.com
-! empty adspace
-www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(1)
-www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(2)
-www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(3)
-www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(6)
-www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(8)
-www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(9)
-www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(12)
-
-! hide sections
-www.theguardian.com###sport
-www.theguardian.com###newsletters
-
-! small ads / self promotion
-www.theguardian.com##.dcr-1u8qly9.dumathoin
-www.theguardian.com##.dcr-1bbj54w > .dcr-1u8qly9
-www.theguardian.com##.dcr-ray2a1 > .dcr-1u8qly9
-www.theguardian.com##.dcr-1wfyb2l > .dcr-1u8qly9
-www.theguardian.com##.dcr-z9fkix > .dcr-1u8qly9
-
-! bottom bar
-www.theguardian.com##body > .dcr-yvt6mp
-
-! 2023-10-21 https://www.thetimes.co.uk
-www.thetimes.co.uk##.GlobalFooter
+www.amazon.co.uk##.rhf-frame
 
 ! 2023-10-21 https://rutracker.org
 rutracker.org##.w100.tCenter
 rutracker.org##.hide-for-print.ta-inf2.top-alert
 rutracker.org##.ext-links.middot-separated.inlined
-
-! 2023-11-05 https://www.amazon.co.uk
-www.amazon.co.uk##.pd_rd_r-b042bef6-2c47-4873-8d11-9ec99e1d1244.pd_rd_w-xmxwc.pd_rd_wg-0MkAV.celwidget.desktop-gateway-atf_9364ba82-258d-4a35-99b0-2194cdb2e788.csm-placement-id-11721da9-2ff6-4db1-852b-ff2b86f93408.gw-col
 
 ! 2023-11-18 https://forums.overclockers.co.uk
 forums.overclockers.co.uk##li.notice--primary.js-notice.notice:nth-of-type(2)
@@ -69,10 +42,6 @@ rutracker.org###bn-topic-block
 forum.audiob.us##.abintro
 
 ! 2023-12-04 https://www.google.co.uk
-www.google.co.uk##.appbar
-
-! 2023-12-04 https://www.amazon.co.uk
-www.amazon.co.uk##.rhf-frame
 
 ! 2023-12-25 https://www.reddit.com
 ||styles.redditmedia.com/t5_2ac5sx/styles/image_widget_fvty2sa0rb4c1.jpg?format=pjpg&s=586ccfb39badf3844c47f98ec14738cbb824070d$image
