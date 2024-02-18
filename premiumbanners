@@ -1,0 +1,123 @@
+! 2023-01-08 https://mapgenie.io
+mapgenie.io##p:nth-of-type(3)
+mapgenie.io##.content.col-md-12 > blockquote > p
+mapgenie.io##p.text-center
+mapgenie.io###tarkov-quest-tracker-widget > div > blockquote
+mapgenie.io##.navbar-dark.navbar-expand-lg.navbar
+
+! 2023-03-19 https://www.nexusmods.com
+www.nexusmods.com##.s8dbd4f4bfd
+
+! 2023-06-26 https://www.cogipas.com
+www.cogipas.com##.thrive-section-24236.sidebar-section.theme-section
+www.cogipas.com##.tve_lb_open.tve_lb_anim_instant.tve_p_lb_background
+
+
+! 2023-09-27 https://chrome-stats.com
+||d1vgqimi0f9ws7.cloudfront.net/chrome-stats/2.gif$image
+||d1vgqimi0f9ws7.cloudfront.net/chrome-stats/1.gif$image
+
+! 2023-10-05 https://www.google.co.uk
+www.google.co.uk##.cu-container.c3mZkd
+
+! 2023-10-20 https://www.amazon.co.uk
+www.amazon.co.uk##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
+www.amazon.co.uk##.nav-sprite-v1.navLeftFooter
+
+! 2023-10-21 https://www.theguardian.com
+! empty adspace
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(1)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(2)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(3)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(6)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(8)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(9)
+www.theguardian.com##div.dcr-oc305y.top-fronts-banner-ad-container:nth-of-type(12)
+
+! hide sections
+www.theguardian.com###sport
+www.theguardian.com###newsletters
+
+! small ads / self promotion
+www.theguardian.com##.dcr-1u8qly9.dumathoin
+www.theguardian.com##.dcr-1bbj54w > .dcr-1u8qly9
+www.theguardian.com##.dcr-ray2a1 > .dcr-1u8qly9
+www.theguardian.com##.dcr-1wfyb2l > .dcr-1u8qly9
+www.theguardian.com##.dcr-z9fkix > .dcr-1u8qly9
+
+! bottom bar
+www.theguardian.com##body > .dcr-yvt6mp
+
+! 2023-10-21 https://www.thetimes.co.uk
+www.thetimes.co.uk##.GlobalFooter
+
+! 2023-10-21 https://rutracker.org
+rutracker.org##.w100.tCenter
+rutracker.org##.hide-for-print.ta-inf2.top-alert
+rutracker.org##.ext-links.middot-separated.inlined
+
+! 2023-11-05 https://www.amazon.co.uk
+www.amazon.co.uk##.pd_rd_r-b042bef6-2c47-4873-8d11-9ec99e1d1244.pd_rd_w-xmxwc.pd_rd_wg-0MkAV.celwidget.desktop-gateway-atf_9364ba82-258d-4a35-99b0-2194cdb2e788.csm-placement-id-11721da9-2ff6-4db1-852b-ff2b86f93408.gw-col
+
+! 2023-11-18 https://forums.overclockers.co.uk
+forums.overclockers.co.uk##li.notice--primary.js-notice.notice:nth-of-type(2)
+
+! 2023-11-19 https://rutracker.org
+rutracker.org###bn-topic-block
+
+! 2023-11-19 https://forum.audiob.us
+forum.audiob.us##.abintro
+
+! 2023-12-04 https://www.google.co.uk
+www.google.co.uk##.appbar
+
+! 2023-12-04 https://www.amazon.co.uk
+www.amazon.co.uk##.rhf-frame
+
+! 2023-12-25 https://www.reddit.com
+||styles.redditmedia.com/t5_2ac5sx/styles/image_widget_fvty2sa0rb4c1.jpg?format=pjpg&s=586ccfb39badf3844c47f98ec14738cbb824070d$image
+||styles.redditmedia.com/t5_2ac5sx/styles/image_widget_ndngijw1gu6c1.png$image
+
+! 2024-01-24 https://www.logitechg.com
+www.logitechg.com##.active.mbgc-transparent.tbgc-transparent.dbgc-transparent.theme-dark.js-site-notification.pangea-site-notification.pangea-cmp
+
+! 2024-01-27 https://www.google.com
+www.google.com##.QdZIX
+
+! 2024-02-09 https://www.nexusmods.com
+www.nexusmods.com##.container.premium-banner
+
+! 2024-02-16 https://www.youtube.com
+www.youtube.com##.ytd-metadata-row-container-renderer.style-scope > .ytd-rich-metadata-row-renderer.style-scope
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
+www.youtube.com##.style-default.ytd-masthead.style-scope
+www.youtube.com###voice-search-button
+
+! 2024-02-17 https://tabs.ultimate-guitar.com
+tabs.ultimate-guitar.com##.OXfBQ.rklDY.tYMPb
+tabs.ultimate-guitar.com##.OXfBQ.AWLjO.tYMPb
+tabs.ultimate-guitar.com##.kAZfS.CiMr5
+tabs.ultimate-guitar.com##.lBssT.jtEAE.aPPf7.FaXPs.ciST3.DuyVa.Qh0h8
+tabs.ultimate-guitar.com##.pro--pro-info__fixed.pro--pro-info
+tabs.ultimate-guitar.com##.CRA4S.Jke9V
+tabs.ultimate-guitar.com##.JJ8_m.o2tA_ > .Bwqqq.dHmzo
+tabs.ultimate-guitar.com##.qbQ5s
+tabs.ultimate-guitar.com##.ekeaR
+tabs.ultimate-guitar.com##.DWMp4
+tabs.ultimate-guitar.com##.bOWkY
+tabs.ultimate-guitar.com##.PiIQf
+tabs.ultimate-guitar.com##a.lBssT.jtEAE.aPPf7.ciST3.DuyVa.Qh0h8:nth-of-type(2)
+
+! 2024-02-17 https://www.songsterr.com
+www.songsterr.com###text-showroom
+www.songsterr.com##.I19w
+
