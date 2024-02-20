@@ -5,21 +5,13 @@ mapgenie.io##p.text-center
 mapgenie.io###tarkov-quest-tracker-widget > div > blockquote
 mapgenie.io##.navbar-dark.navbar-expand-lg.navbar
 
-! 2023-03-19 https://www.nexusmods.com
-www.nexusmods.com##.s8dbd4f4bfd
-
 ! 2023-06-26 https://www.cogipas.com
 www.cogipas.com##.thrive-section-24236.sidebar-section.theme-section
 www.cogipas.com##.tve_lb_open.tve_lb_anim_instant.tve_p_lb_background
 
-
 ! 2023-09-27 https://chrome-stats.com
 ||d1vgqimi0f9ws7.cloudfront.net/chrome-stats/2.gif$image
 ||d1vgqimi0f9ws7.cloudfront.net/chrome-stats/1.gif$image
-
-! 2023-10-05 https://www.google.co.uk
-www.google.co.uk##.cu-container.c3mZkd
-www.google.co.uk##.appbar
 
 ! 2023-10-20 https://www.amazon.co.uk
 www.amazon.co.uk##.pd_rd_r-b042bef6-2c47-4873-8d11-9ec99e1d1244.pd_rd_w-xmxwc.pd_rd_wg-0MkAV.celwidget.desktop-gateway-atf_9364ba82-258d-4a35-99b0-2194cdb2e788.csm-placement-id-11721da9-2ff6-4db1-852b-ff2b86f93408.gw-col
@@ -31,17 +23,13 @@ www.amazon.co.uk##.rhf-frame
 rutracker.org##.w100.tCenter
 rutracker.org##.hide-for-print.ta-inf2.top-alert
 rutracker.org##.ext-links.middot-separated.inlined
+rutracker.org###bn-topic-block
 
 ! 2023-11-18 https://forums.overclockers.co.uk
 forums.overclockers.co.uk##li.notice--primary.js-notice.notice:nth-of-type(2)
 
-! 2023-11-19 https://rutracker.org
-rutracker.org###bn-topic-block
-
 ! 2023-11-19 https://forum.audiob.us
 forum.audiob.us##.abintro
-
-! 2023-12-04 https://www.google.co.uk
 
 ! 2023-12-25 https://www.reddit.com
 ||styles.redditmedia.com/t5_2ac5sx/styles/image_widget_fvty2sa0rb4c1.jpg?format=pjpg&s=586ccfb39badf3844c47f98ec14738cbb824070d$image
@@ -53,23 +41,13 @@ www.logitechg.com##.active.mbgc-transparent.tbgc-transparent.dbgc-transparent.th
 ! 2024-01-27 https://www.google.com
 www.google.com##.QdZIX
 
-! 2024-02-09 https://www.nexusmods.com
-www.nexusmods.com##.container.premium-banner
+! 2023-10-05 https://www.google.co.uk
+www.google.co.uk##.cu-container.c3mZkd
+www.google.co.uk##.appbar
 
-! 2024-02-16 https://www.youtube.com
-www.youtube.com##.ytd-metadata-row-container-renderer.style-scope > .ytd-rich-metadata-row-renderer.style-scope
-www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(3)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com###guide-links-primary
-www.youtube.com###guide-links-secondary
-www.youtube.com###copyright
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
-www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
-www.youtube.com##.style-default.ytd-masthead.style-scope
-www.youtube.com###voice-search-button
+! 2024-02-09 https://www.nexusmods.com
+www.nexusmods.com##.s8dbd4f4bfd
+www.nexusmods.com##.container.premium-banner
 
 ! 2024-02-17 https://tabs.ultimate-guitar.com
 tabs.ultimate-guitar.com##.OXfBQ.rklDY.tYMPb
@@ -89,4 +67,3 @@ tabs.ultimate-guitar.com##a.lBssT.jtEAE.aPPf7.ciST3.DuyVa.Qh0h8:nth-of-type(2)
 ! 2024-02-17 https://www.songsterr.com
 www.songsterr.com###text-showroom
 www.songsterr.com##.I19w
-
