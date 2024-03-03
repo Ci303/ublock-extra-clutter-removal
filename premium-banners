@@ -1,55 +1,56 @@
-! 2023-01-08 https://mapgenie.io
+! https://mapgenie.io
 mapgenie.io##p:nth-of-type(3)
 mapgenie.io##.content.col-md-12 > blockquote > p
 mapgenie.io##p.text-center
 mapgenie.io###tarkov-quest-tracker-widget > div > blockquote
 mapgenie.io##.navbar-dark.navbar-expand-lg.navbar
 
-! 2023-06-26 https://www.cogipas.com
+! https://www.cogipas.com
 www.cogipas.com##.thrive-section-24236.sidebar-section.theme-section
 www.cogipas.com##.tve_lb_open.tve_lb_anim_instant.tve_p_lb_background
 
-! 2023-09-27 https://chrome-stats.com
+! https://chrome-stats.com
 ||d1vgqimi0f9ws7.cloudfront.net/chrome-stats/2.gif$image
 ||d1vgqimi0f9ws7.cloudfront.net/chrome-stats/1.gif$image
 
-! 2023-10-20 https://www.amazon.co.uk
+! https://www.amazon.co.uk
 www.amazon.co.uk##.pd_rd_r-b042bef6-2c47-4873-8d11-9ec99e1d1244.pd_rd_w-xmxwc.pd_rd_wg-0MkAV.celwidget.desktop-gateway-atf_9364ba82-258d-4a35-99b0-2194cdb2e788.csm-placement-id-11721da9-2ff6-4db1-852b-ff2b86f93408.gw-col
 www.amazon.co.uk##.gw-desktop-herotator-ready.tall.aok-relative.a-spacing-none.a-section
 www.amazon.co.uk##.nav-sprite-v1.navLeftFooter
 www.amazon.co.uk##.rhf-frame
 
-! 2023-10-21 https://rutracker.org
+! https://rutracker.org
 rutracker.org##.w100.tCenter
 rutracker.org##.hide-for-print.ta-inf2.top-alert
 rutracker.org##.ext-links.middot-separated.inlined
 rutracker.org###bn-topic-block
+rutracker.org###page_footer
 
-! 2023-11-18 https://forums.overclockers.co.uk
+! https://forums.overclockers.co.uk
 forums.overclockers.co.uk##li.notice--primary.js-notice.notice:nth-of-type(2)
 
-! 2023-11-19 https://forum.audiob.us
+! https://forum.audiob.us
 forum.audiob.us##.abintro
 
-! 2023-12-25 https://www.reddit.com
+! https://www.reddit.com
 ||styles.redditmedia.com/t5_2ac5sx/styles/image_widget_fvty2sa0rb4c1.jpg?format=pjpg&s=586ccfb39badf3844c47f98ec14738cbb824070d$image
 ||styles.redditmedia.com/t5_2ac5sx/styles/image_widget_ndngijw1gu6c1.png$image
 
-! 2024-01-24 https://www.logitechg.com
+! https://www.logitechg.com
 www.logitechg.com##.active.mbgc-transparent.tbgc-transparent.dbgc-transparent.theme-dark.js-site-notification.pangea-site-notification.pangea-cmp
 
-! 2024-01-27 https://www.google.com
+! https://www.google.com
 www.google.com##.QdZIX
 
-! 2023-10-05 https://www.google.co.uk
+! https://www.google.co.uk
 www.google.co.uk##.cu-container.c3mZkd
 www.google.co.uk##.appbar
 
-! 2024-02-09 https://www.nexusmods.com
+! https://www.nexusmods.com
 www.nexusmods.com##.s8dbd4f4bfd
 www.nexusmods.com##.container.premium-banner
 
-! 2024-02-17 https://tabs.ultimate-guitar.com
+! https://tabs.ultimate-guitar.com
 tabs.ultimate-guitar.com##.OXfBQ.rklDY.tYMPb
 tabs.ultimate-guitar.com##.OXfBQ.AWLjO.tYMPb
 tabs.ultimate-guitar.com##.kAZfS.CiMr5
@@ -64,6 +65,28 @@ tabs.ultimate-guitar.com##.bOWkY
 tabs.ultimate-guitar.com##.PiIQf
 tabs.ultimate-guitar.com##a.lBssT.jtEAE.aPPf7.ciST3.DuyVa.Qh0h8:nth-of-type(2)
 
-! 2024-02-17 https://www.songsterr.com
+! https://www.songsterr.com
 www.songsterr.com###text-showroom
 www.songsterr.com##.I19w
+
+! 2024-03-03 https://fandom.com
+fandom.com##.global-navigation
+fandom.com##.page-side-tools__wrapper
+fandom.com##.page__right-rail
+fandom.com##.global-registration-buttons
+fandom.com##.page-header__actions
+fandom.com###mixed-content-footer
+fandom.com##.page-footer
+fandom.com##.global-footer
+fandom.com##.is-visible.fandom-sticky-header
+fandom.com##li.wds-dropdown:nth-of-type(6)
+fandom.com##.mw-editsection
+
+! https://www.ign.com
+www.ign.com##.header.jsx-897490467
+www.ign.com##.sidebar-footer.jsx-2611831114
+www.ign.com##.free-tracker.jsx-636940961.card
+www.ign.com##.right-rail
+
+! https://www.edp24.co.uk
+www.edp24.co.uk##.nq-visibility.subs-visibility.reg-visibility.anon-visibility.block-article-shoutout.block
