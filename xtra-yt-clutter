@@ -14,3 +14,5 @@ www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scop
 www.youtube.com##.style-default.ytd-masthead.style-scope
 www.youtube.com###voice-search-button
 www.youtube.com###clarify-box
+www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-metadata.style-scope > .ytd-merch-shelf-renderer.style-scope
+www.youtube.com##span.bold.yt-formatted-string.style-scope:nth-of-type(3)
